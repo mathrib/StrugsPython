@@ -1,1 +1,1 @@
-# StrugsPython
+# Strugs Python
